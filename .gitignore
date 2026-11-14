@@ -74,3 +74,6 @@ app.*.map.json
 *.keystore
 .DS_Store
 Thumbs.db
+
+# SDK específico de cada equipo
+.vscode/settings.json
